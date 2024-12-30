@@ -31,7 +31,7 @@ Amauri
 A lot.
 
 ## Video Walkthrough 
-[![My Image](./public/pic1.PNG)](https://drive.google.com/file/d/1w8J_pNErGG4pjS9aGxvmQ-2ckuWzYZog/view?usp=sharing)
+[![My Image](./public/pic1.PNG)]
 
 ## Questions
 For more personal questions, contact me at github.com/Amauri817
